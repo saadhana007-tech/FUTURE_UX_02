@@ -39,15 +39,23 @@
 
 <div align="center">
 
-<!-- 🖼️ Replace the placeholders below with real screenshots/GIFs of your site -->
-<!-- Tip: use https://www.recordit.co or your OS screen recorder to grab a quick GIF walkthrough -->
+<!-- Auto-generated live screenshot of the deployed site (no upload needed).
+     First load can take a few seconds to render — refresh the README/page if it looks blank. -->
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdaily-paper-06771888.figma.site%2F?w=900&h=560" width="80%" alt="Live site preview"/>
 
-<img src="https://placehold.co/300x600/1e1b4b/ffffff?text=Service+Selection" width="23%"/>
-<img src="https://placehold.co/300x600/312e81/ffffff?text=Choose+Date+%26+Time" width="23%"/>
-<img src="https://placehold.co/300x600/3730a3/ffffff?text=Booking+Summary" width="23%"/>
-<img src="https://placehold.co/300x600/4338ca/ffffff?text=Confirmation" width="23%"/>
+<sub>👆 Live auto-captured preview of the demo. For a sharper, permanent version, add your own screenshots below (see comment in the raw README).</sub>
 
-<sub>⚠️ These are placeholders — swap them for real screenshots or a GIF of your app for the best impression!</sub>
+<!--
+  🖼️ RECOMMENDED: replace the image above with your own screenshots for best quality.
+  1. Create an `assets/` folder in your repo
+  2. Add screenshots there, e.g. assets/service-selection.png
+  3. Replace this section with:
+
+  <img src="assets/service-selection.png" width="23%"/>
+  <img src="assets/date-time.png" width="23%"/>
+  <img src="assets/booking-summary.png" width="23%"/>
+  <img src="assets/confirmation.png" width="23%"/>
+-->
 
 </div>
 
