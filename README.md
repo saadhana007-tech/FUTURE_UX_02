@@ -43,7 +43,6 @@
      First load can take a few seconds to render — refresh the README/page if it looks blank. -->
 <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdaily-paper-06771888.figma.site%2F?w=900&h=560" width="80%" alt="Live site preview"/>
 
-<sub>👆 Live auto-captured preview of the demo. For a sharper, permanent version, add your own screenshots below (see comment in the raw README).</sub>
 
 <!--
   🖼️ RECOMMENDED: replace the image above with your own screenshots for best quality.
