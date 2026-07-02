@@ -29,7 +29,6 @@
 
 ### 👉 **[daily-paper-06771888.figma.site](https://daily-paper-06771888.figma.site)** 👈
 
-*(JavaScript must be enabled in your browser to view the prototype)*
 
 </div>
 
